@@ -1,0 +1,61 @@
+/* carte_interactive.css */
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: #f9f9f9;
+    color: #333;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #0055a4;
+    color: white;
+    padding: 1.5rem;
+    text-align: center;
+  }
+  
+  nav {
+    margin-top: 1rem;
+  }
+  
+  nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 1rem;
+    font-weight: bold;
+  }
+  
+  main {
+    padding: 2rem;
+    max-width: 1000px;
+    margin: auto;
+  }
+  
+  footer {
+    background-color: #f1f1f1;
+    text-align: center;
+    padding: 1rem;
+    font-size: 0.9rem;
+    color: #555;
+  }
+  
+  .deces-list {
+    margin-top: 30px;
+  }
+  
+  .deces-item {
+    background-color: #e0f7fa;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .deces-item h4 {
+    margin: 0;
+    font-size: 1.2rem;
+  }
+  
+  .deces-item p {
+    margin: 5px 0;
+  }
+  
