@@ -6,8 +6,8 @@
   <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
   <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
+
   <link rel="stylesheet" href="carte_interactive.css">
-  <a href="index.php" class="button">Voir la carte interactive</a>
   <style>
     #map {
       height: 500px;
