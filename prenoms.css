@@ -1,0 +1,120 @@
+/* Corps de la page */
+body {
+    background-color: #f2f9ff;
+    font-family: 'Inter', sans-serif;
+    color: #333;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* En-tête */
+  header {
+    background-color: #4da6ff;
+    color: white;
+    padding: 2rem 1rem;
+    text-align: center;
+  }
+  
+  header h1 {
+    margin: 0;
+    font-size: 2rem;
+  }
+  
+  nav {
+    margin-top: 1rem;
+  }
+  
+  nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 1rem;
+    font-weight: 600;
+  }
+  
+  nav a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Section d'intro */
+  .intro {
+    padding: 2rem;
+    max-width: 900px;
+    margin: auto;
+    text-align: center;
+  }
+  
+  .intro h2 {
+    font-size: 1.8rem;
+    margin-bottom: 1rem;
+  }
+  
+  .intro p {
+    font-size: 1.1rem;
+    color: #444;
+  }
+  
+  /* Tableau */
+  .table-section {
+    padding: 2rem;
+    max-width: 1000px;
+    margin: auto;
+    text-align: center;
+  }
+  
+  .table-section h3 {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+    color: #2c82d3;
+  }
+  
+  .table-container {
+    overflow-x: auto;
+    margin-top: 1rem;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: white;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 0 10px rgba(0,0,0,0.08);
+  }
+  
+  thead {
+    background-color: #e0f0ff;
+  }
+  
+  th, td {
+    padding: 0.9rem;
+    text-align: center;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  th {
+    font-weight: 600;
+    color: #2c6ebf;
+  }
+  
+  tbody tr:nth-child(even) {
+    background-color: #f9fcff;
+  }
+  
+  /* Pied de page */
+  footer {
+    background-color: #e6f2ff;
+    text-align: center;
+    padding: 1rem;
+    font-size: 0.9rem;
+    color: #555;
+  }
+  
+  footer a {
+    color: #4da6ff;
+    text-decoration: none;
+  }
+  
+  footer a:hover {
+    text-decoration: underline;
+  }
+  
