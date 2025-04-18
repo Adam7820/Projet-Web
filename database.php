@@ -1,9 +1,9 @@
 <?php
 function connectToDbAndGetPdo() {
-    $host = "localhost";
-    $dbname = "lieu_remarquable";
-    $user = "root";
-    $password = "";
+    $host = "mysql-adam7820.alwaysdata.net";
+    $dbname = "adam7820_eclosens";
+    $user = "adam7820";
+    $password = "HW6UG_uwDab.J@q";
 
     try {
         $db = new PDO(
