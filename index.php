@@ -18,8 +18,6 @@
     <h1>ÉcloSens - Le patrimoine des jardins et parcs de France</h1>
     <nav>
       <a href="carte_interactive.php">Carte Interactive</a>
-      <a href="types_jardins.php">Types de Jardins</a>
-      <a href="patrimoine.php">Patrimoine UNESCO</a>
       <a href="connexion.php">Connexion</a>
       <a href="inscription.php">Inscription</a>
     </nav>
