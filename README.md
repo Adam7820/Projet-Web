@@ -21,11 +21,3 @@ Base de données : MySQL
 données de data culture gouv
 (https://data.culture.gouv.fr/explore/dataset/liste-des-jardins-remarquables/export/?disjunctive.types)
 
-/ton_projet (temporaire)
-│
-├── index.html               # Page d'accueil
-├── index.css                # Style de la page d'accueil
-├── carte_interactive.php    # Page contenant la carte interactive
-├── images/
-│   └── image_representative.jpg     # Image pour la carte
-└── footer.html              # Pied de page (optionnel)
